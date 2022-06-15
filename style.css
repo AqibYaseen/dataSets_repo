@@ -1,0 +1,31 @@
+*{
+    margin: 20px;
+    padding: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
+button{
+    margin-left: 30px;
+}
+#error{
+    color: red;
+    font-size: larger;
+    padding: 2px;
+    background-color: rgb(189, 189, 189);
+}
+
+#form{
+    
+    width: 50vw;
+    background-color: grey;
+    border: 3px solid black;
+}
+#div1{
+    display: inline-block;
+    font-size: larger;
+    border: 3px solid black;
+    position: absolute;
+    width: 400px;
+    height: 400px;
+    background-color: grey;
+
+}
